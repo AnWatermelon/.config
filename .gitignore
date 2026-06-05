@@ -5,10 +5,12 @@
 !noctalia
 !nvim/
 !nvim/**
+nvim/lazy-lock.json
 !hypr/
 !hypr/**
 !BetterDiscord/
 !BetterDiscord/**
+BetterDiscord/data/stable/addon-store.json
 !fastfetch/
 !fastfetch/**
 !kitty/
