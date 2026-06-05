@@ -15,3 +15,9 @@
 !kitty/**
 !opencode/
 !opencode/**
+!xdg-desktop-portal/
+!xdg-desktop-portal/**
+!xdg-desktop-portal-termfilechooser/
+!xdg-desktop-portal-termfilechooser/**
+!yazi/
+!yazi/**
