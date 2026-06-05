@@ -6,15 +6,20 @@
 !nvim/
 !nvim/**
 nvim/lazy-lock.json
+nvim/lua/matugen.lua
 !hypr/
 !hypr/**
+hypr/noctalia.lua
 !BetterDiscord/
 !BetterDiscord/**
 BetterDiscord/data/stable/addon-store.json
+BetterDiscord/themes/Translucence.theme.css
 !fastfetch/
 !fastfetch/**
 !kitty/
 !kitty/**
+kitty/current-theme.conf
+kitty/themes/noctalia.conf
 !opencode/
 !opencode/**
 !xdg-desktop-portal/
@@ -23,5 +28,6 @@ BetterDiscord/data/stable/addon-store.json
 !xdg-desktop-portal-termfilechooser/**
 !yazi/
 !yazi/**
+yazi/flavors/noctalia.yazi/flavor.toml
 !spotify-player/
 !spotify-player/**
