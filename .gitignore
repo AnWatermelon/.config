@@ -13,3 +13,5 @@
 !fastfetch/**
 !kitty/
 !kitty/**
+!opencode/
+!opencode/**
