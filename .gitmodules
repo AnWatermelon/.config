@@ -1,0 +1,6 @@
+[submodule "hypr"]
+	path = hypr
+	url = https://github.com/AnWatermelon/hypr.git
+[submodule "noctalia"]
+	path = noctalia
+	url = https://github.com/AnWatermelon/noctalia.git
