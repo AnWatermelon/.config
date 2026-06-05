@@ -1,3 +1,15 @@
 *
 !.gitignore
 !.git
+!hypr
+!noctalia
+!nvim/
+!nvim/**
+!hypr/
+!hypr/**
+!BetterDiscord/
+!BetterDiscord/**
+!fastfetch/
+!fastfetch/**
+!kitty/
+!kitty/**
